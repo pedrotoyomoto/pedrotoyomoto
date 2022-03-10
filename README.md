@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @pedrotoyomoto
+- 👀 I’m interested in Python, Javascript, CSS and HTML.
